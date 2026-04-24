@@ -1,0 +1,2 @@
+Hello new file
+The value of pi is 3.14159.
